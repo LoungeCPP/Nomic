@@ -1,5 +1,5 @@
 #Player Status
 
 - Shoe: -10
-- thecoshman: 0
+- thecoshman: -10
 - rmartinho: 0
